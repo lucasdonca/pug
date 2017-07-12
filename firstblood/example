@@ -1,0 +1,5 @@
+def hi
+	puts 'hi, focker'
+end
+
+hi()
