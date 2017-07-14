@@ -1,3 +1,0 @@
-def hi
-	puts 'hello, focker, how u doin?'
-hi()   sdads
